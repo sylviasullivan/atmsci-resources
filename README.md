@@ -9,10 +9,10 @@ Talks from the Cloud Feedback Model Intercomparison Project in 2020: [Allison Wi
 
 [Dynamical core](dynamical-core.pdf) - The dynamical core of an atmospheric model solves the momentum, mass, and energy balances on a spatiotemporal grid using highly efficient numerical methods.
 
-[Physical parameterization](physical-parameterizations.png) - Physical parameterizations are use to approximate the processes, like cloud droplet formation and ice crystal nucleation, that occur on subgrid scales.
+[Physical parameterization](physical-parameterizations.pdf) - Physical parameterizations are use to approximate the processes, like cloud droplet formation and ice crystal nucleation, that occur on subgrid scales.
 
 [Radiative-convective equilibrium](radiative-convective-equilibrium.pdf) - The dominant energetic balance in the tropics is between convective heating and radiative cooling.
 
 # Technical German
 
-[Neue sturmauflösende Klimamodelle](stuermische-zeiten.pdf) - Artikel über neue Klimamodelle von der Zeitschrift Physik in unserer Zeit
+[Neue sturmauflösende Klimamodelle](stuermische-zeiten-fuer-klimaforschung.pdf) - Artikel über neue Klimamodelle von der Zeitschrift Physik in unserer Zeit
