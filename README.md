@@ -16,3 +16,9 @@ Talks from the Cloud Feedback Model Intercomparison Project in 2020: [Allison Wi
 # Technical German
 
 [Neue sturmauflösende Klimamodelle](stuermische-zeiten-fuer-klimaforschung.pdf) - Artikel über neue Klimamodelle von der Zeitschrift Physik in unserer Zeit
+
+# Coding tools
+
+[xarray](https://xarray-contrib.github.io/xarray-tutorial/oceanhackweek-2020/xarray-oceanhackweek20.html) - How to read netcdf files, see their dimensions and variables, etc.
+
+[Linux for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
