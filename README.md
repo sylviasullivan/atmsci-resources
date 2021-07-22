@@ -13,12 +13,18 @@ Talks from the Cloud Feedback Model Intercomparison Project in 2020: [Allison Wi
 
 [Radiative-convective equilibrium](radiative-convective-equilibrium.pdf) - The dominant energetic balance in the tropics is between convective heating and radiative cooling.
 
+[Column water vapor and precipitation relation](peters-and-neelin.pdf) - A critical value of column-integrated water vapor is needed to initiate intense tropical precipitation.
+
 # Technical German
 
 [Neue sturmauflösende Klimamodelle](stuermische-zeiten-fuer-klimaforschung.pdf) - Artikel über neue Klimamodelle von der Zeitschrift Physik in unserer Zeit
 
 # Coding tools
 
-[xarray](https://xarray-contrib.github.io/xarray-tutorial/oceanhackweek-2020/xarray-oceanhackweek20.html) - How to read netcdf files, see their dimensions and variables, etc.
+[xarray](https://xarray-contrib.github.io/xarray-tutorial/oceanhackweek-2020/xarray-oceanhackweek20.html) - How to read netcdf files, see their dimensions and variables, etc. in Python
+
+[ncdump](https://www.unidata.ucar.edu/software/netcdf/workshops/2011/utilities/NcdumpExamples.html) - A command to return header (-h) information about a netcdf file or see values (-v) of a certain variable
+
+[cdo](https://code.mpimet.mpg.de/projects/cdo/embedded/cdo.pdf) - Powerful set of commands to read and edit netcdf files. cdo -infov -selvar,<var> file.nc will generate the same output as ncdump -h file.nc
 
 [Linux for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
