@@ -25,6 +25,10 @@ Talks from the Cloud Feedback Model Intercomparison Project in 2020: [Allison Wi
 
 [ncdump](https://www.unidata.ucar.edu/software/netcdf/workshops/2011/utilities/NcdumpExamples.html) - A command to return header (-h) information about a netcdf file or see values (-v) of a certain variable
 
-[cdo](https://code.mpimet.mpg.de/projects/cdo/embedded/cdo.pdf) - Powerful set of commands to read and edit netcdf files. cdo -infov -selvar,<var> file.nc will generate the same output as ncdump -h file.nc
+[cdo](https://code.mpimet.mpg.de/projects/cdo/embedded/cdo.pdf) - Powerful set of commands to read and edit netcdf files. cdo -infov -selvar,\<variable\> file.nc will generate the same output as ncdump -h file.nc
 
 [Linux for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+
+# Data
+
+ERA-Interim (ERAI) reanalysis data is found in /work/bb1018/b380873/MCS_clim/ausgabe/meteo\_clim/nc/ERAI. The same files but with the additional variable of storm core extent are available in /work/bb1018/b380873/MCS_clim/ausgabe/meteo\_clim\nc\ERAI_coresize_added. The RCE channel (ch) simulations for a surface temperature of 300 K are available in /work/bb1018/b380873/RCE-CAPE-exploration/RCE-sims/ch_cam300ri0/.
