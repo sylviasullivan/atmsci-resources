@@ -31,4 +31,4 @@ Talks from the Cloud Feedback Model Intercomparison Project in 2020: [Allison Wi
 
 # Data
 
-ERA-Interim (ERAI) reanalysis data is found in /work/bb1018/b380873/MCS_clim/ausgabe/meteo\_clim/nc/ERAI. The same files but with the additional variable of storm core extent are available in /work/bb1018/b380873/MCS_clim/ausgabe/meteo\_clim\nc\ERAI_coresize_added. The RCE channel (ch) simulations for a surface temperature of 300 K are available in /work/bb1018/b380873/RCE-CAPE-exploration/RCE-sims/ch_cam300ri0/.
+ERA-Interim (ERAI) reanalysis data is found in /work/bb1018/b380873/MCS_clim/ausgabe/meteo\_clim/nc/ERAI. The same files but with the additional variable of storm core extent are available in /work/bb1018/b380873/MCS_clim/ausgabe/meteo\_clim/nc/ERAI_coresize_added. The RCE channel (ch) simulations for a surface temperature of 300 K are available in /work/bb1018/b380873/RCE-CAPE-exploration/RCE-sims/ch_cam300ri0/.
