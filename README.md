@@ -15,6 +15,8 @@ Talks from the Cloud Feedback Model Intercomparison Project in 2020: [Allison Wi
 
 [Column water vapor and precipitation relation](peters-and-neelin.pdf) - A critical value of column-integrated water vapor is needed to initiate intense tropical precipitation.
 
+[Zero buoyancy plume model](https://singh.sci.monash.edu/plume.shtml), [increasing CAPE in a warmer world](https://www.pnas.org/content/pnas/114/44/11657.full.pdf) - CAPE increases with environmental saturation deficit in proportion to entrainment, and CAPE extremes will intensify with warming.
+
 # Technical German
 
 [Neue sturmauflösende Klimamodelle](stuermische-zeiten-fuer-klimaforschung.pdf) - Artikel über neue Klimamodelle von der Zeitschrift Physik in unserer Zeit
