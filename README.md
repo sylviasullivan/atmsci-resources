@@ -31,6 +31,8 @@ Talks from the Cloud Feedback Model Intercomparison Project in 2020: [Allison Wi
 
 [Linux for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
+[Row-major versus column-major order](https://en.wikipedia.org/wiki/Row-_and_column-major_order) - MATLAB is column-major, whereas numpy is row-major.
+
 # Data
 
 ERA-Interim (ERAI) reanalysis data is found in /work/bb1018/b380873/MCS_clim/ausgabe/meteo\_clim/nc/ERAI. The same files but with the additional variable of storm core extent are available in /work/bb1018/b380873/MCS_clim/ausgabe/meteo\_clim/nc/ERAI_coresize_added. The RCE channel (ch) simulations for a surface temperature of 300 K are available in /work/bb1018/b380873/RCE-CAPE-exploration/RCE-sims/ch_cam300ri0/.
