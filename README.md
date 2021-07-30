@@ -17,6 +17,8 @@ Talks from the Cloud Feedback Model Intercomparison Project in 2020: [Allison Wi
 
 [Zero buoyancy plume model](https://singh.sci.monash.edu/plume.shtml), [increasing CAPE in a warmer world](https://www.pnas.org/content/pnas/114/44/11657.full.pdf) - CAPE increases with environmental saturation deficit in proportion to entrainment, and CAPE extremes will intensify with warming.
 
+[Environmental controls on tropical MCS precip](schiro-et-al.pdf) - Our previous work on the precipitation intensity from mesoscale storms and its dependence on environmental conditions like CAPE and CWVC. Useful comparisons, e.g. with Fig 1.
+
 # Technical German
 
 [Neue sturmauflösende Klimamodelle](stuermische-zeiten-fuer-klimaforschung.pdf) - Artikel über neue Klimamodelle von der Zeitschrift Physik in unserer Zeit
