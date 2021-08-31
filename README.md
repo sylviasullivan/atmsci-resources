@@ -8,7 +8,7 @@ Talks from the Cloud Feedback Model Intercomparison Project in 2020: [Allison Wi
 - *Hydrological cycle* (Project 2) - 50% of mean precipitation comes from mesoscale storms in the tropics, and more organized convection &#8594; 20-25% more mean precipitation. Local extremes also depend on organization but in unclear ways.
 
 Physics Seminar in 2015: [David Romps on Humidity and Instability](https://youtu.be/FN7k2ZT1DqY)
-- *Entrainment / Detrainment* - turbulent mixing of clear air into the cloudy regions; turbulent mixing of cloudy air into the clear-sky regions
+- *Entrainment / Detrainment* - turbulent mixing of clear air into the cloudy regions / turbulent mixing of cloudy air into the clear-sky regions
 
 [Dynamical core](dynamical-core.pdf) - The dynamical core of an atmospheric model solves the momentum, mass, and energy balances on a spatiotemporal grid using highly efficient numerical methods.
 
@@ -21,6 +21,9 @@ Physics Seminar in 2015: [David Romps on Humidity and Instability](https://youtu
 [Zero buoyancy plume model](https://singh.sci.monash.edu/plume.shtml), [increasing CAPE in a warmer world](https://www.pnas.org/content/pnas/114/44/11657.full.pdf) - CAPE increases with environmental saturation deficit in proportion to entrainment, and CAPE extremes will intensify with warming.
 
 [Environmental controls on tropical MCS precip](schiro-et-al.pdf) - Our previous work on the precipitation intensity from mesoscale storms and its dependence on environmental conditions like CAPE and CWVC. Useful comparisons, e.g. with Fig 1.
+
+[Organization of tropical convection[tompkins-et-al.pdf](https://github.com/sylviasullivan/atmsci-resources/files/7085381/tompkins-et-al.pdf)
+](tompkins-et-al.pdf) - An older paper that also looks at organized convection and its environmental properties in a long-channel simulation setup, discussing ``dry banding" among other phenomena
 
 # Technical German
 
